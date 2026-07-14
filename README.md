@@ -1,44 +1,21 @@
-# Hi, I'm Francesco 👋
+# Ciao 👋
 
-**CRM Officer & Data Analyst | IT automation | Applied AI**
+Piacere, mi chiamo **Francesco Filannino**. Lavoro come **CRM Officer e Data Analyst** per **Wisedāna Foundation**, dove mi occupo di CRM, qualità del dato, reporting, processi e integrazione tra necessità organizzative e strumenti tecnologici.
 
-I work at the intersection of data, organizational processes and technology,
-with a focus on philanthropy and social impact.
+Vengo da un percorso professionale nella ristorazione e nel vino naturale. È lì che ho imparato a leggere sistemi complessi, coordinare persone e informazioni, trasformare problemi operativi in processi più chiari. Oggi porto quello stesso approccio nel lavoro con i dati e la tecnologia.
 
-## What I work on
+Sto completando il percorso **Python, AI & Machine Learning di EPICODE**, approfondendo data analysis, Machine Learning, Deep Learning e automazione. Uso principalmente Python, Pandas, NumPy, Matplotlib, Seaborn, JupyterLab, VS Code e GitHub.
 
-- CRM and fundraising data management
-- data quality and reporting
-- process analysis and automation
-- functional requirements and technology integration
-- applied and responsible AI
+Il mio interesse professionale è nell'incontro tra **Data & AI Operations, filantropia digitale e impatto sociale**: CRM e donor journey, KPI, qualità del dato, automazioni, Generative AI e Agentic AI applicate a fondazioni e organizzazioni non profit.
 
-## Currently learning
+Mi interessa anche comprendere l'intelligenza artificiale come sistema sociotecnico. Per questo studio e scrivo di AI, cibernetica, etica, filosofia e trasformazione delle organizzazioni.
 
-- Python for data analysis
-- Machine Learning and Deep Learning
-- data pipelines and automation
-- AI ethics and cybernetics
+Questo profilo raccoglie il mio percorso di apprendimento e, progressivamente, progetti e casi di studio costruiti con dati pubblici o sintetici.
 
-## Tools
+---
 
-- Python
-- Pandas and NumPy
-- Matplotlib and Seaborn
-- scikit-learn
-- JupyterLab and VS Code
-- Git and GitHub
+## Scrittura e contatti
 
-## Current role
+Scrivo su **Kybernetes**, uno spazio dedicato all'intelligenza artificiale osservata attraverso cibernetica, etica, filosofia e filantropia.
 
-I currently work as CRM Officer and Data Analyst at Wisedāna Foundation,
-supporting data, processes, reporting, CRM development and technology integration.
-
-## Interests
-
-Responsible AI, digital philanthropy, cybernetics, philosophy, natural wine
-and complex organizational systems.
-
-## Selected projects
-
-Projects and case studies are currently being documented.
+[Substack](https://substack.com/@francescofilannino) · [LinkedIn](https://www.linkedin.com/in/francesco-filannnino-144a9381/)
